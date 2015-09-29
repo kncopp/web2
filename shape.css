@@ -1,3 +1,7 @@
+
+
+
+
 //truck1//
 
 
@@ -112,6 +116,8 @@
 
 
 
+
+
 //truck2//
 
 
@@ -160,7 +166,6 @@
 
 
 
-
 #body3 {
    width: 400px;  
    height: 100px;
@@ -181,17 +186,46 @@
 
 
 
-
-//stop light//
-
-
-
 #pole {
-      width:50px;
-      height:400px;
+      width:20px;
+      height:200px;
       background-color:black;
       position:absolute;
-      left:100px; top:400px;
+      right:100px; top:400px;
 }
+
+#top {
+      width:90px;
+      height:190px;
+      background-color:black;
+      position:absolute;
+      right:65px; top:290px;
+}
+
+#red {  width: 50px;  
+   height: 50px;
+   background-color:red;
+   border-radius: 50%;
+   position:absolute;
+   right:85px; top:300px;
+}
+
+#yellow {  width: 50px;  
+   height: 50px;
+   background-color:yellow;
+   border-radius: 50%;
+   position:absolute;
+   right:85px; top:360px;
+}
+
+#green {  width: 50px;  
+   height: 50px;
+   background-color:green;
+   border-radius: 50%;
+   position:absolute;
+   right:85px; top:420px;
+}
+
+
 
 
