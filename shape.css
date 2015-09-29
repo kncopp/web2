@@ -1,20 +1,197 @@
+//truck1//
+
+
+#window {
+   width: 150px;  
+   height: 100px;
+   background-color:gray;
+   position:absolute;
+   top:150px; left:350px;
+   
+}
+
 
 #tire1 {
-   width: 60px;  
-   height: 60px;
+   width: 150px;  
+   height: 150px;
    background-color:black;
    border-radius: 50%;
    position:absolute;
-   top:200; left:200;
+   top:400px; left:200px;
 }
 
 
 
 #tire2 {
-   width: 60px;  
-   height: 60px;
-   background-color:gray;
+   width: 150px;  
+   height: 150px;
+   background-color:black;
    border-radius: 50%;
    position:absolute;
-   top:200; right:250;
+   top:400px; left:400px;
 }
+
+
+
+#front {
+   width: 250px;  
+   height: 170px;
+   background-color:darkblue;
+   border-radius: 90%;
+   position:absolute;
+   top:230px; left:460px;
+}
+
+
+
+#body1 {
+   width: 400px;  
+   height: 100px;
+   background-color:darkblue;
+   position:absolute;
+   top:300px; left:100px;
+}
+
+
+#body2 {
+   width: 250px;  
+   height: 250px;
+   background-color:darkblue;
+   position:absolute;
+   top:150px; left:350px;
+}
+
+
+
+
+//lines//
+
+
+#line1 {
+      width:200px;
+      height:100px;
+      background-color:yellow;
+      position:absolute;
+      top:500px; left:0px;
+   }
+
+ #line2 {
+      width:100px;
+      height:50px;
+      background-color:yellow;
+      position:absolute;
+      top:500px; left:100px;
+   }
+
+#line3 {
+      width:100px;
+      height:50px;
+      background-color:yellow;
+      position:absolute;
+      top:500px; left:280px;
+   }
+
+#line4 {
+      width:100px;
+      height:50px;
+      background-color:yellow;
+      position:absolute;
+      top:500px; left:410px;
+   }
+
+#line5 {
+      width:100px;
+      height:50px;
+      background-color:yellow;
+      position:absolute;
+      top:500px; left:640px;
+   }
+
+
+
+
+
+
+//truck2//
+
+
+
+
+#window2 {
+   width: 150px;  
+   height: 100px;
+   background-color:gray;
+   position:absolute;
+   top:450px; left:350px;
+   
+}
+
+
+#tire3 {
+   width: 150px;  
+   height: 150px;
+   background-color:black;
+   border-radius: 50%;
+   position:absolute;
+   top:700px; left:200px;
+}
+
+
+
+#tire4 {
+   width: 150px;  
+   height: 150px;
+   background-color:black;
+   border-radius: 50%;
+   position:absolute;
+   top:700px; left:400px;
+}
+
+
+
+#front2 {
+   width: 250px;  
+   height: 170px;
+   background-color:silver;
+   border-radius: 90%;
+   position:absolute;
+   top:530px; left:460px;
+}
+
+
+
+
+#body3 {
+   width: 400px;  
+   height: 100px;
+   background-color:silver;
+   position:absolute;
+   top:600px; left:100px;
+}
+
+
+#body4 {
+   width: 250px;  
+   height: 250px;
+   background-color:silver;
+   position:absolute;
+   top:450px; left:350px;
+}
+
+
+
+
+
+//stop light//
+
+
+
+#pole {
+      width:50px;
+      height:400px;
+      background-color:black;
+      position:absolute;
+      left:100px; top:400px;
+}
+
+
